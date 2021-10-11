@@ -1,0 +1,1 @@
+Executable of the solution
